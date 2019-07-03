@@ -1,0 +1,14 @@
+
+Classification (Unsupervised Learning)
+
+Instance-Based Algorithms
+- k-Nearest Neighbor (kNN)
+- Learning Vector Quantization (LVQ)
+- Self-Organization Map (SOM)
+- Locally Weighted Lerning (LWL)
+
+Regularization Algorithm
+- Ridge Regression
+- Least Absolute Shrinkage and Selection Operator (LASSO)
+- Elastic Net
+- Least-Angie Regression (LARS)
